@@ -67,14 +67,14 @@ background-color:#fff;
 .title{
 	position: absolute;
 	top: 40%;
-	left: 55%;
+	left: 60%;
 	width: 60%;
 	transform: translate(-50%,-50%);
 }
 
 .title h1{
 	color: #fff;
-	font-size: 85px;
+	font-size: 65px;
 }
 
 .button{
